@@ -4,13 +4,17 @@
 
 ### Project Structure
 
-This file contains the initial/first report for my machine learning course. Please also note the following files:
+I am competing in the Kaggle/RSNA [Intercranial Aneurysm Detection Competition](https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection). The repository for my competition entry is [kyledunne/aneurysm-detection](https://github.com/kyledunne/aneurysm-detection).
 
-- [Initial Report Notebook](initial_class_report.ipynb): contains the code for my initial report
-- [Final Class Report](Final_Class_Report.md): contains the final report for my machine learning course
-- [Final Class Report Notebook](final_class_report.ipynb): contains the code for my final class report
-- [Competition Report](Competition_Report.md): fully up-to-date report on work for the competition (which closes on October 14th, 2025).
-- [Competition Notebook](competition_notebook.ipynb): fully up-to-date code for competition
+*This* repository contains my initial report and code for my capstone project. I moved the code and write-up out of the competition repository for clarity and to align with the grading guidelines.
+
+Please note that my *final* report for my capstone project will be/is in a third repository, [kyledunne/mlai-capstone-final](https://github.com/kyledunne/mlai-capstone-final).
+
+### Notebook
+
+The code for this report (my inital capstone report) is in the associated Jupyter notebook file:
+
+[Aneurysm Detection Notebook - Part 1](aneurysm_detection_notebook_part_1.ipynb)
 
 ### Background
 
