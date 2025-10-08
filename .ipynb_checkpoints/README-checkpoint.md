@@ -2,15 +2,7 @@
 
 ![Diagram of a cerebral aneurysm, showing swelling at the intersection of two blood vessels within the brain](images/aneurysm.jpg)
 
-### Project Structure
-
-I am competing in the Kaggle/RSNA [Intercranial Aneurysm Detection Competition](https://www.kaggle.com/competitions/rsna-intracranial-aneurysm-detection). The repository for my competition entry is [kyledunne/aneurysm-detection](https://github.com/kyledunne/aneurysm-detection).
-
-*This* repository contains my initial report and code for my capstone project. I moved the code and write-up out of the competition repository for clarity and to align with the grading guidelines.
-
-Please note that my *final* report for my capstone project will be/is in a third repository, [kyledunne/mlai-capstone-final](https://github.com/kyledunne/mlai-capstone-final).
-
-### Notebook
+### Key Files
 
 The code for this report (my inital capstone report) is in the associated Jupyter notebook file:
 
